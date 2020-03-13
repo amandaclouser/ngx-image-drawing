@@ -6,7 +6,7 @@
 
     .toolbar {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
         flex-wrap: wrap;
     }
@@ -115,7 +115,7 @@
         }
 
         &.btn-primary {
-            background-color: #ef5f27;
+            background-color: #ff6a68;
             color: #fff;
 
             &:hover {
@@ -124,7 +124,7 @@
         }
 
         &.btn-light {
-            color: #ef5f27;
+            color: #ff6a68;
 
             &:hover {
                 background-color: rgba(239, 95, 39, 0.1);
